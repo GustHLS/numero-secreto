@@ -23,3 +23,7 @@ Com a criação deste projeto, o foco foi aprender sobre GIT e GitHub.
 - Desfazer um commit usando `git revert (id do commit para ser desfeito)`
 - Resetar um commit com `git reset --hard (id da versão que desejada)`
 - Como alterar o último commit utilizando `git commit --amend -m "comentario"`
+
+- Criar o arquivo README de um repositório, que funciona como uma documentação;
+- Ensinar ao Git que determinados arquivos e/ou diretórios do projeto devem ser automaticamente ignorados do controle de versão, com a criação do arquivo oculto `.gitignore`;
+- Compartilhar trechos de códigos com a ferramenta Gist do GitHub.
