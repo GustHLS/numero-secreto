@@ -19,3 +19,7 @@ Com a criação deste projeto, o foco foi aprender sobre GIT e GitHub.
 - Entender como acontecem conflitos de códigos em commits que modificam um mesmo arquivo, feitos por pessoas distintas;
 - O Git sinaliza no código um conflito, via marcações visuais;
 - Resolver um conflito manualmente, editando o arquivo e realizando um commit que marca o conflito como resolvido;
+
+- Desfazer um commit usando `git revert (id do commit para ser desfeito)`
+- Resetar um commit com `git reset --hard (id da versão que desejada)`
+- Como alterar o último commit utilizando `git commit --amend -m "comentario"`
